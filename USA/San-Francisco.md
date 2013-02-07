@@ -2,15 +2,17 @@
 
 * [Ramen Underground](http://www.yelp.com/biz/ramen-underground-san-francisco) - 
   tiny, serious ramen place.  Expect long lines at lunch.  Totally worth it.
-
 * [Zuzhi Puzzle](http://www.zushipuzzle.com/) - "best and most creative sushi in SF"
+
+# Drinks
+
+* [Rickhouse](http://www.rickhousebar.com/)
+* [Bourbon & Branch](http://www.bourbonandbranch.com/) usually need reservations
 
 # Touristy
 
 * [Ocean Beach](http://www.yelp.com/biz/ocean-beach-san-francisco)
-
 * [Muir Woods](http://www.nps.gov/muwo/index.htm) - mass transit to Muir Woods doesn't look super easy
-
 * [Filbert Steps](http://www.sisterbetty.org/stairways/filbertsteps.htm) if weather is nice and you are feeling up for a walk
 
 # Other
